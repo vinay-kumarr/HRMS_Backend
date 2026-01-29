@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv
+email-validator
+httpx
+certifi
+dnspython
+gunicorn
